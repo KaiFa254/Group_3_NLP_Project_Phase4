@@ -1,4 +1,4 @@
-![alt text](<Apple and Google.jpg>)
+![Apple and Google](https://github.com/user-attachments/assets/350460c9-cdad-4724-9fae-5c120657dd29)
 
 Source by https://uzalendonews.co.ke/google-retains-chrome-and-apple-partnership-but-must-share-data-in-landmark-antitrust-decision/
 # Sentiment Analysis of Tweets on Apple and Google Products
@@ -54,6 +54,16 @@ Hyperparameter tuning was performed using **RandomizedSearchCV** to improve accu
 
 
 ## 9. Dashboards 
+<img width="1280" height="505" alt="image" src="https://github.com/user-attachments/assets/56d19c85-f8b4-49f0-a367-b371a4ea1754" />
+Aspect                       | Observation                                                                                   
+
+i. Volume Leader             - Most tweets are either not directed at any brand/product or are uncategorized ("Null"). 
+
+ii. Emotion Distribution     - Most tweets show *positive emotion* or *no emotion*. Very few express negative emotion.
+
+iii. Popular Targets         - iPad and Apple receive the most attention in emotional tweets.                                  
+iv. Low Sentiment Visibility - "I can’t tell" has minimal counts – indicating clear labeling for most tweets.
+
 Link to Tableau: https://public.tableau.com/views/Group3NLPTableauDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
    
 ## 10. Model Deployment
