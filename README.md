@@ -1,6 +1,15 @@
 ![Apple and Google](https://github.com/user-attachments/assets/350460c9-cdad-4724-9fae-5c120657dd29)
 
 Source by https://uzalendonews.co.ke/google-retains-chrome-and-apple-partnership-but-must-share-data-in-landmark-antitrust-decision/
+
+## Project Structure and Navigation
+
+- *`README.md` — Project documentation*
+- *`NLP.ipynb`  — Jupyter notebook for analysis*
+- *`Data/` — Dataset files*
+- *`Presentation/` — Project summary slides PDF*
+- *`Links/` — Deployment/Tableau and Source Link*
+
 # Sentiment Analysis of Tweets on Apple and Google Products
 
 ## 1. Project Overview
@@ -84,5 +93,5 @@ iv. Low Sentiment Visibility - "I can’t tell" has minimal counts – indicatin
 
 Link to Tableau: https://public.tableau.com/views/Group3NLPTableauDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
    
-## 10. Model Deployment
+## 10. Links
 Link to the model: https://group-3-project-app-46ae69b19de0.herokuapp.com/
